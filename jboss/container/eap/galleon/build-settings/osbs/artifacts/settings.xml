@@ -13,7 +13,7 @@
             <repositories>
                 <repository>
                     <id>indy-repository</id>
-                    <url>http://indy.psi.redhat.com/api/content/maven/group/static/</url>
+                    <url>http://indy.corp.redhat.com/api/content/maven/group/static/</url>
                     <releases>
                         <enabled>true</enabled>
                         <checksumPolicy>warn</checksumPolicy>
@@ -26,7 +26,7 @@
             <pluginRepositories>
                 <pluginRepository>
                     <id>indy-repository</id>
-                    <url>http://indy.psi.redhat.com/api/content/maven/group/static/</url>
+                    <url>http://indy.corp.redhat.com/api/content/maven/group/static/</url>
                     <releases>
                         <enabled>true</enabled>
                         <checksumPolicy>warn</checksumPolicy>
